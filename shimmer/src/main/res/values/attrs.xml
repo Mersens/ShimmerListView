@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="ShimmerListView">
+        <attr name="shimmer_layout" format="reference"/>
+        <attr name="shimmer_item_count" format="integer"/>
+    </declare-styleable>
+</resources>
