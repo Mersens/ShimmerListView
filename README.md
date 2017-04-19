@@ -15,8 +15,8 @@ Step 1.Add it in your root build.gradle at the end of repositories:
 ```
 Step 2. Add the dependency:
 ```
-	dependencies {
-	        compile 'com.github.Mersens:MyLinearLayout:v1.0'
+dependencies {
+	        compile 'com.github.Mersens:ShimmerListView:0c5a4fe182'
 	}
 
 ```
