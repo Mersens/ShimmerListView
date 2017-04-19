@@ -3,7 +3,7 @@
 ## 效果图
 ![运行效果图](https://github.com/Mersens/ShimmerListView/blob/master/screenshots/shimmer.gif)
 ## How To
-To get a Git project into your build:
+To get a Git project into your build:</br>
 Step 1.Add it in your root build.gradle at the end of repositories:
 ```
 	allprojects {
